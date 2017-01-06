@@ -1,0 +1,52 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/Users/tengsun/Documents/Workspace/Asset/Service/ruby/lib/init.rb": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "/Users/tengsun/Documents/Workspace/Asset/Service/ruby/api/api.rb": [
+        1,
+        1,
+        1,
+        null,
+        1,
+        2,
+        null,
+        null
+      ],
+      "/Users/tengsun/Documents/Workspace/Asset/Service/ruby/spec/api_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        2,
+        null,
+        null,
+        1,
+        1,
+        2,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null
+      ]
+    },
+    "timestamp": 1483594358
+  }
+}
